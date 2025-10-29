@@ -16,9 +16,9 @@ AI Exercise Assistant is a webcam-based computer vision project that analyzes ex
   !pip install mediapipe
   ```
 2. Run the remaining cells in order
-   a. **Imports & Pose setup** (cv2, mediapipe, numpy, time; create pose = mp_pose.Pose(...)).
-   b. **Realtime Pose Estimation** block with the webcam check (press ```q``` to quit).
-   c. **Exercises blocks:** run one at a time — Planks, Lunges, Shoulder Press. Execution is self-contained; therefore, just execute the cell for the exercise you want.
+   - **Imports & Pose setup** (cv2, mediapipe, numpy, time; create pose = mp_pose.Pose(...)).
+   - **Realtime Pose Estimation** block with the webcam check (press ```q``` to quit).
+   - **Exercises blocks:** run one at a time — Planks, Lunges, Shoulder Press. Execution is self-contained; therefore, just execute the cell for the exercise you want.
 
 
 ## Usage
